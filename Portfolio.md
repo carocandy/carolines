@@ -9,9 +9,9 @@
 <img class="mx-auto w-1" src="{{site.baseurl}}/assets/img/PYTHON1.5.png">
 
 ### Utilizing pandas to create data frames and derived columns.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/PYTHON2.png">
+<img class="mx-auto w-1" src="{{site.baseurl}}/assets/img/PYTHON2.png">
 ### Result
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/PYTHON2.5.png">
+<img class="mx-auto w-1" src="{{site.baseurl}}/assets/img/PYTHON2.5.png">
 
 ### Using datetime to analyze stock trends pulled from NASDAQ.
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/PYTHON3.png">
