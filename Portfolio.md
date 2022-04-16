@@ -17,7 +17,7 @@
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/PYTHON3.png">
 
 ### Using data from Excel and performing statistical analysis.
-<img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/PYTHON4.png">
+<img class="mx-auto w-1" src="{{site.baseurl}}/assets/img/PYTHON4.png">
 
 
 
